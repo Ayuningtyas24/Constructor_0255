@@ -9,3 +9,9 @@ mahasiswa(); //Constructor
 mahasiswa::mahasiswa(){
 cout << "Constructor Terpanggil"<<endl;
 }
+
+int main(){
+mahasiswa mhs; //Pembuatan Object
+
+return 0;
+}
